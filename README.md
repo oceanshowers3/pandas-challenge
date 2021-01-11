@@ -1,15 +1,19 @@
 # pandas-challenge
 
-Generates a report that breaks down the game's purchasing data into meaningful insights.
+#Generates a report that breaks down the game's purchasing data into meaningful insights.
 
-Includes the following:
-- Player Count
-- Total Number of Players
-- Purchasing Analysis (Total)
-- Number of Unique Items
-  - Average Purchase Price
-  - Total Number of Purchases
-  - Total Revenue
+##Includes the following:
+
+
+###Player Count
+   - Total Number of Players
+   
+   
+###Purchasing Analysis (Total)
+   - Number of Unique Items
+   - Average Purchase Price
+   - Total Number of Purchases
+   - Total Revenue
  - Gender Demographics
    - Percentage and Count of Male Players
    - Percentage and Count of Female Players
@@ -20,11 +24,7 @@ Includes the following:
      - Average Purchase Price
      - Total Purchase Value
      - Average Purchase Total per Person by Gender
-
-
-
-
-Age Demographics
+- Age Demographics
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
